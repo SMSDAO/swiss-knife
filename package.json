@@ -44,7 +44,7 @@
     "react-dnd-html5-backend": "^16.0.1",
     "react-dom": "18.2.0",
     "react-simple-code-editor": "^0.11.0",
-    "typescript": "5.0.4",
+    "typescript": "5.9.3",
     "usehooks-ts": "^3.0.1",
     "viem": "^1.21.4",
     "wagmi": "^1.4.3",
